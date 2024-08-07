@@ -1,0 +1,1 @@
+console.log("ryk is beautiful city");
